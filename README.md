@@ -1,1 +1,1 @@
-# 21-Days-Of-ML
+# 21 Days Of ML
