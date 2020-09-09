@@ -11,5 +11,3 @@ NumPy
 ### - Day 3:
 
 Data Manipulation with Pandas
-
-I will start day after tomorrow I hope.
