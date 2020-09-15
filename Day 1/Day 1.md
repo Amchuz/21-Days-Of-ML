@@ -64,3 +64,7 @@ Unsupervised learning is used against data that are unclassified or unlabeled. T
 - Association rule learning: Eclat
 - Visualization and dimensionality reduction: kernel PCA, t-distributed, PC
   
+#### 3) Reinforcement Learning
+  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Reinforcement%20Learning.jpeg>
+  
