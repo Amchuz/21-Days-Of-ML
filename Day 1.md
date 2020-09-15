@@ -14,7 +14,7 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
   
 **What’s requires to create good machine learning systems ?**
 1) Data Preparation capabilities
-2) Algorithms — basic and advanced\
-3) Automation and iterative processes\
-4) Scalability\
-5) Ensemble Modeling\
+2) Algorithms — basic and advanced
+3) Automation and iterative processes
+4) Scalability
+5) Ensemble Modeling
