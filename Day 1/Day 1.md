@@ -38,5 +38,5 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
   
 #### 1) Supervised Learning
   
-<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Supervised%20Learning width="85" height="85">
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Supervised%20Learning>
   
