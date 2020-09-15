@@ -94,3 +94,29 @@ The main objective of introducing this learning algorithm is to overcome the pro
 - Low-density separation
 - Graph-based Methods
 - Heuristic approaches
+  
+### Scikit-Learn
+  
+- Open source library which is licensed under **BSD**
+- Built on Numpy, scipy & Matplotlib
+- Many tuning parameters
+- Documentation & Support
+  
+Scikit-learn is probably the most useful library for machine learning in Python. The sklearn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Sklearn is used to build machine learning models. It should not be used for reading the data, manipulating, and summarizing it. There are better libraries for that (e.g. NumPy, Pandas, etc.)
+  
+**Components of scikit-learn**
+  
+Scikit-learn comes loaded with a lot of features. Here are a few of them to help you understand the spread:
+  
+- Supervised learning algorithms: Think of any supervised machine learning algorithm you might have heard about and there is a very high chance that it is part of scikit-learn. Starting from Generalized linear models (e.g Linear Regression), Support Vector Machines (SVM), Decision Trees to Bayesian methods — all of them are part of scikit-learn toolbox.
+- Cross-validation: There are various methods to check the accuracy of supervised models on unseen data using sklearn.
+- Unsupervised learning algorithms: There is a large spread of machine learning algorithms in the offering — starting from clustering, factor analysis, principal component analysis to unsupervised neural networks.
+- Various toy datasets: Various academic datasets (e.g. IRIS dataset, Boston House prices dataset)
+- Feature extraction: Scikit-learn for extracting features from images and text (e.g. Bag of words)
+  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Scikit-learn.jpeg width="500" height="450">
+  
+### Scikit-Learn Installation
+  
+**Using pip**
+> $ pip install -U scikit-learn
