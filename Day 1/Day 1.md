@@ -31,3 +31,12 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
   
 ### Types of ML
   
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Semi-supervised Learning
+  
+#### 1) Supervised Learning
+  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Supervised%20Learning width="85" height="85">
+  
