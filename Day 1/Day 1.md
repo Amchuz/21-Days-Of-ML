@@ -118,7 +118,7 @@ Scikit-learn comes loaded with a lot of features. Here are a few of them to help
   
 ### Scikit-Learn Installation
   
-**Using pip**
-> $ pip install -U scikit-learn \
+**Using pip**\
+$ pip install -U scikit-learn \
 **In anaconda using conda run** \
 > conda install -c anaconda scikit-learn 
