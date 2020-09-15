@@ -52,3 +52,15 @@ Supervised learning algorithms are trained using labelled data, in which input a
 - Decision trees
 - Random forests
   
+#### 2) Unsupervised Learning
+  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Unsupervised%20Learning.jpeg>
+  
+Unsupervised learning is used against data that are unclassified or unlabeled. The system does not know the “right answer”. The goal is to explore the data and find some structure within. Unsupervised learning works well on transactional data. Unsupervised Learning Algorithms allow users to perform more complex processing tasks compared to supervised learning.
+  
+**Important unsupervised algorithms**
+
+- Clustering: k-means, hierarchical cluster analysis
+- Association rule learning: Eclat
+- Visualization and dimensionality reduction: kernel PCA, t-distributed, PC
+  
