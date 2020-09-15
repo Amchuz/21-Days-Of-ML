@@ -1,8 +1,8 @@
 ### Topics
   
 - What is ML ?
-- Types of ML
 - Applications of ML
+- Types of ML
 - Scikit-Learn
 - Scikit-Learn Installation
 
@@ -26,5 +26,11 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
 - Product Recommendation
 - Stock Market Prediction
 - Online Fraud Detection
+- Spam Email Detection
+- Online Customer Service
   
-#### Spam Detection
+### Types of ML
+  
+
+
+  
