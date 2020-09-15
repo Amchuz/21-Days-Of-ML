@@ -84,8 +84,8 @@ Reinforcement learning is often used for robotics, gaming and navigation. This a
   
 #### 4) Semi-Supervised Learning
   
-<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Semi-supervised%20learning.jpeg width="400" height="400">
-  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Semi-supervised%20learning.jpeg width="350" height="300">
+ 
 The main objective of introducing this learning algorithm is to overcome the problems faced by the supervised or unsupervised learning. In supervised learning, the data should be labeled which is a costly process and in unsupervised the application spectrum is limited. To overcome these disadvantages Semi-Supervised learning was introduced. In this both labeled and unlabeled data is present. When this type of data is used then it shows considerable improvement in learning accuracy.
   
 **Important semisupervised alorithms**
