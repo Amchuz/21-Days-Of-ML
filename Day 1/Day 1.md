@@ -40,3 +40,15 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
   
 <img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Supervised%20Learning>
   
+  
+Supervised learning algorithms are trained using labelled data, in which input and its desired output are known. Supervised learning is commonly used in applications where historical data predicts future events. For example, it can anticipate when credit card transactions are likely to be got cancelled or which insurance customer is going to file a claim.
+  
+**Important supervised algorithms**
+  
+- K-nearest neighbors
+- Linear regression
+- Support vector machines
+- Logistic regression
+- Decision trees
+- Random forests
+  
