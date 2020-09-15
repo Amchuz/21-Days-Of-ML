@@ -66,5 +66,31 @@ Unsupervised learning is used against data that are unclassified or unlabeled. T
   
 #### 3) Reinforcement Learning
   
-<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Reinforcement%20Learning.jpeg>
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Reinforcement%20Learning.jpeg width="400" height="400">
   
+Reinforcement learning is often used for robotics, gaming and navigation. This algorithm achieves the highest accuracy through trial and error or repeatedly running the algorithm to achieve good accuracy.
+  
+**This type of learning algorithms has three primary components:**
+  
+- The agent (the learner or decision-maker)
+- The environment (everything the agent interacts with)
+- Actions (what the agent can do)
+  
+**Important reinforcement algorithms**
+  
+- Monte Carlo Methods
+- Temporal Difference Methods
+- Direct policy search
+  
+#### 4) Semi-Supervised Learning
+  
+<img src=https://github.com/Amchuz/21-Days-Of-ML/blob/master/Day%201/Semi-supervised%20learning.jpeg width="400" height="400">
+  
+The main objective of introducing this learning algorithm is to overcome the problems faced by the supervised or unsupervised learning. In supervised learning, the data should be labeled which is a costly process and in unsupervised the application spectrum is limited. To overcome these disadvantages Semi-Supervised learning was introduced. In this both labeled and unlabeled data is present. When this type of data is used then it shows considerable improvement in learning accuracy.
+  
+**Important semisupervised alorithms**
+  
+- Generative Models
+- Low-density separation
+- Graph-based Methods
+- Heuristic approaches
