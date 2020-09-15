@@ -18,3 +18,13 @@ eg : Whether a piece of fruit in a picture is a orange or an apple, spotting peo
 3) Automation and iterative processes
 4) Scalability
 5) Ensemble Modeling
+  
+### Applications of ML
+  
+- Image Recognition
+- Self Driving Cars
+- Product Recommendation
+- Stock Market Prediction
+- Online Fraud Detection
+  
+#### Spam Detection
